@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bank Statement OCR to CSV Extractor",
+  "description": "High-accuracy bank statement OCR and tabular extraction pipeline with balance reconciliation, human-in-the-loop review, and ISO CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
